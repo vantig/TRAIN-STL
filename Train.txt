@@ -1,0 +1,7 @@
+Minsk 107A 1 9 20 
+Brest 127A 0 19 27
+Pinsk 207P 0 11 40 
+Gomel 737G 1 13 50 
+Mogilev 907M 1 12 20 
+Minsk 777A 1 18 30 
+Minsk 407M 0 19 28 
